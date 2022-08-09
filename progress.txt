@@ -1,0 +1,12 @@
+Day 1 
+Date :07-08-2022
+1)Decided data sharing Hierarchy structure (Master Slave model)
+2)finalized basic bot structure  
+(Chassis, motors, tyres)
+3)short listed modules (nRF24L01, ESP8266)
+
+Day 2
+Date:08-08-2022
+1)Established wireless connection between bot and master using 2.4 GHz frequency  
+2)Prototype 1.0 test run successful 
+
