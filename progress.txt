@@ -10,3 +10,9 @@ Date:08-08-2022
 1)Established wireless connection between bot and master using 2.4 GHz frequency  
 2)Prototype 1.0 test run successful 
 
+Day 3
+Date:09-08-2022
+1) Manufactured 1st chassis for bot 
+2) changed bot from WIFI AP to WIFI station
+
+
