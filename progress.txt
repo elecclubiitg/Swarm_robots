@@ -15,4 +15,25 @@ Date:09-08-2022
 1) Manufactured 1st chassis for bot 
 2) changed bot from WIFI AP to WIFI station
 
+Day-4,5
+Date :10 -08-2022,11-08-2022
+1)	Attempting and testing automation in bots with one clint (as slave) and one server as master
+
+Day-6
+Date : 12 -08-2022
+1)Success in automation of bots in master slave network of 2 
+2)Finalizing formation of autonomous bots
+3)Attempting network of more than 3
+
+Day 7
+Date:13-08-2022 
+1)Strengthening the body of bot
+2)Redesigning wheels of bots 
+
+Day 8
+Date :   14-08-2022
+1)Redistribution of weight of on bot by redefining position of components
+2)Finalizing bot
+
+
 
